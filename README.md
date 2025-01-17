@@ -1,5 +1,4 @@
-# TFTAut
-Playwright automation
+# Orange Hrm Automation using PlayWright and TypeScript
 
 ## Project Intro
 Set up PlayWright, Javascript, and NodeJs to automate Orange Hrm application's modules under Positive and Negative test cases. 
